@@ -1,0 +1,4 @@
+customer_id,customer_name,customer_email,customer_address,customer_city,customer_state,customer_zip
+CUST003,Carol White,carol@email.com,789 Pine Rd,Chicago,IL,60601
+CUST001,Alice Johnson,alice@email.com,123 Main St,New York,NY,10001
+CUST002,Bob Smith,bob@email.com,456 Oak Ave,Los Angeles,CA,90001

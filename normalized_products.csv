@@ -1,0 +1,5 @@
+product_id,product_name,product_description,product_price,product_category
+PROD001,Laptop,High-performance laptop,999.99,Electronics
+PROD003,Notebook,Spiral notebook,4.99,Stationery
+PROD002,Mouse,Wireless mouse,29.99,Electronics
+PROD004,Pen,Ballpoint pen pack,9.99,Stationery
